@@ -1,0 +1,19 @@
+Code of conduct for Group 6's skills lab:
+
+Our pledge:
+It is in our best interest to have an welcoming enviorment for everyone regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+Unacceptable behavior that will not be tolerated includes:
+1. Violence, threats of violence, or inciting others to commit self-harm
+2. The use of sexualized language or imagery and unwelcome sexual attention or advances
+3. Trolling, intentionally spreading misinformation, insulting/derogatory comments, and personal or political attacks
+4. Public or private harassment
+5. Publishing others' private information, such as a physical or electronic address, without explicit permission
+6. Abuse of the reporting process to intentionally harass or exclude others
+7. Advocating for, or encouraging, any of the above behavior
+8. Other conduct which could reasonably be considered inappropriate in a professional setting
+
+These rules are up to the discretion of the project owners and they have the right to  remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+
+In conclusion it is our goal for everyone to be welcomed and safe and by following the rules above we believe that we can do that with ease. Thank you!
+
